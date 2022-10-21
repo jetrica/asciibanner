@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\AsciiBanner\\AsciiBanner\\AsciiBanner.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\AsciiBanner\\AsciiBanner\\AsciiBanner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\AsciiBanner\\AsciiBanner\\AsciiBanner.csproj",
+        "projectName": "AsciiBanner",
+        "projectPath": "C:\\dev\\AsciiBanner\\AsciiBanner\\AsciiBanner.csproj",
+        "packagesPath": "C:\\Users\\Ninoslav.Vitorac\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\AsciiBanner\\AsciiBanner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ninoslav.Vitorac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.7.82, )"
+            },
+            "Figgle": {
+              "target": "Package",
+              "version": "[0.4.0, )"
+            },
+            "TextCopy": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

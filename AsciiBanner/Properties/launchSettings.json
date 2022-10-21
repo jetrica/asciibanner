@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AsciiBanner": {
+      "commandName": "Project",
+      "commandLineArgs": "list --help"
+    }
+  }
+}

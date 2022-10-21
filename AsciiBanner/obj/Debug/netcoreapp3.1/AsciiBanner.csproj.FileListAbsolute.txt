@@ -1,0 +1,17 @@
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.exe
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.csprojAssemblyReference.cache
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.AssemblyInfoInputs.cache
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.AssemblyInfo.cs
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.csproj.CopyComplete
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.deps.json
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.runtimeconfig.json
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.runtimeconfig.dev.json
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.dll
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\AsciiBanner.pdb
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\CommandLine.dll
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.dll
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.pdb
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.genruntimeconfig.cache
+C:\dev\AsciiBanner\AsciiBanner\bin\Debug\netcoreapp3.1\TextCopy.dll
+C:\dev\AsciiBanner\AsciiBanner\obj\Debug\netcoreapp3.1\AsciiBanner.csproj.CoreCompileInputs.cache
